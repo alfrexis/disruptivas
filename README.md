@@ -1,10 +1,11 @@
-# disruptivas
-Tendencias Disruptivas en TI
+# Curriculum Vitae
+Alfredo Alexis González Ordóñez
 
 
-![](https://github.com/alfrexis/disruptivas/alexis_gonzalez_2014.jpg)
+![](https://github.com/alfrexis/disruptivas/blob/master/alexis_gonzalez_2014.jpg)
+
 ####Telefono Movil				3113288629
-####e-mail				alfrexisgo@gmail.com
+####e-mail				alfrexisgo@gmail.com  - alfrexis@hotmail.com
 
 ##Perfil Profesional
 
