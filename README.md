@@ -119,7 +119,7 @@ Expandí mis conocimientos sobre manejo y configuración de hardware.
 Utilicé mis conocimientos en creación y manejo de organizaciones para la conformación y desarrollo de la empresa. 
 Establecí estrategias y funcionalidades para la estructura de apoyo directo al servicio al cliente, la comercialización y mercadeo de los servicios de la organización.
 
-#### Edivayuca  (Mar- Ago 1999)
+#### Edivayca  (Mar- Ago 1999)
 Diseñé una base de datos para el manejo del material inmueble de la empresa.
 Desarrollé de manera activa mi aprendizaje sobre la configuración de hardware de oficina como redes, impresoras, tarjetas de video, sonido y módems.
 Apoye directamente el departamento de Sistemas en la administración de servidores bajo el Sistema Operativo Uníx (Configuraciones, sincronización y enlace de datos Nacional).
