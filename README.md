@@ -2,7 +2,7 @@
 Tendencias Disruptivas en TI
 
 
-![](https://github.com/alfrexis/disruptivas/blob/master/foto.png)
+![](https://github.com/alfrexis/disruptivas/alexis_gonzalez_2014.jpg)
 ####Telefono Movil				3113288629
 ####e-mail				alfrexisgo@gmail.com
 
