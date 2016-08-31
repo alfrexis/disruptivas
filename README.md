@@ -9,8 +9,14 @@ Alfredo Alexis González Ordóñez
 
 ##Perfil Profesional
 
-Ingeniero de Sistemas y computación de la Pontificia Universidad Javeriana de Cali (2003), he trabajado en distintas ramas de la informática así como en campos públicos y privados, he sido docente universitario de la Universidad del Cauca y mis intereses laborales se han concentrado en apoyar directamente y funcionalmente a las organizaciones que requieren del componente informático y tecnológico para su funcionamiento y desarrollo, actualmente lo hago como Director de Proyectos de Informática.
-Dentro de mis áreas de trabajo están el diseño y desarrollo de portales web, diseño de redes de datos, análisis, diseño y desarrollo de desempeño de sistemas de información y seguridad informática, también he apoyado directamente algunas organizaciones en el área de Helpdesk y a nivel investigativo me interesan los temas de Interacción Humano Computador, realidad virtual y sistemas interactivos multimedia.
+Ingeniero de Sistemas y Computación con conocimientos en implementaciones de software para la Internet y el circulo corporativo de sistemas, administración de bases de datos, conocimientos en manejo y control de proyectos de Tecnología Informática e Ingeniería de Software, entornos virtuales, comunicación de datos y seguridad informática. 
+
+Participo de manera activa en desarrollo de funciones en grupo, con gran motivación hacia los proyectos que involucren tecnología en el campo de la informática y la ciencia de la computación. 
+
+Poseo buena habilidad para el aprendizaje de nuevas actividades productivas en el campo de trabajo.
+
+Tengo excelente disposición a aportar favorablemente al desarrollo de los buenos proyectos con mis conocimientos.
+
 
 ####Formación Académica	
 
@@ -63,6 +69,30 @@ Dentro de mis áreas de trabajo están el diseño y desarrollo de portales web, 
 -	Capacidad fluida de expresión oral y escrita.
 
 ####English:  Read (85%)  Write (70%) Speak (65%)
+
+## Experiencia Academica e Investigativa
+
+Actualmente investigando en el campo de las Interfaces Humano-Computador y sus aplicaciones a los ambientes educativos interactivos (Modelos Virtuales, realidad aumentada).
+
+Configuración, personalización, publicación y uso de CMS (Content Manager Systems) para la organización de la información y proyección corporativa y empresarial.
+
+Diseño de interfaces y mejoramiento de experiencia de aplicaciones basada en usuarios. (UX)
+
+Aplicaciones y Modelos de comercio electrónico usando software libre. (Adaptación de sistemas de e-commerce)
+
+Adaptación y configuración de sistemas LMS (Learning Management Systems) orientados a la organización de información para la educación.
+
+Implementación de tecnologías y sistemas dinámicos para sistemas móviles. (Programación Android)
+
+Investigación en optimizaciones y mejoramientos al desempeño de las bases de datos (afinamiento de bases DB Oracle 8i).
+
+Administración de Sistemas de Correo electrónico basados en criptografía utilizando algoritmos de cifrado 3DES. (Visual Basic 4.0)
+
+Sistemas de Información relacionales (Oracle  MySQL, Postgress)
+
+Modelado 3D utilizando VRML y WebGL.
+
+
 
 ## Experiencia Laboral
 
